@@ -1,0 +1,4 @@
+- Olá, sou @LuisFernandosoldado
+- O meu email é luis.fernandoamaroda.conceicao@escola.pr.gov.br
+-  👀 Estou interessado em aprender novas linguagens de programação.
+- 🌱 Estou aprendendo a programar recentemente as linguagens JavaScript e Scratch.
